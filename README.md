@@ -3,3 +3,5 @@
 #zu arbeiten. Dieses Projekt wurde von der Rudolf-Diesel-Fachschule Nürnberg veranlasst.
 
 #Dieses Repository wurde am 11.10.2019 von Michael Mölle erstellt.
+
+#Dies ist eine Teständerung der readme.md Datei
