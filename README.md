@@ -1,7 +1,9 @@
-# michaelmoelle1992
-#Dieses repository wurde erstellt, um zusammen am Projekt "Datenerfassung- und -abstraktion" von Michael Mölle und Ondrej Hruby
-#zu arbeiten. Dieses Projekt wurde von der Rudolf-Diesel-Fachschule Nürnberg veranlasst.
+Repository erstellt, Dateien hochgeladen und Readme verfasst von Michael Mölle am 11.10.2019 in Nürnberg
 
-#Dieses Repository wurde am 11.10.2019 von Michael Mölle erstellt.
+Projektname: Datenerfassung und -abstraktion von Industrieanlagen mittels OPC-UA
+Projektarbeit IAV3/4
+Projektteam: Michael Mölle, Ondrej Hruby
 
-#Dies ist eine Teständerung der readme.md Datei
+Dieses Repository enthält sämtliche Quellcodes und Dateien, die sich im Projektumfang befinden. Außerdem werden durchgearbeitete Tutorials der "Visual-Components-Academy" mit Screenshots als rar-Archive hochgeladen.
+
+Bei Fragen wenden Sie sich bitte an Michael Mölle oder Ondrej Hruby
