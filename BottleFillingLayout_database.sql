@@ -30,3 +30,11 @@ CREATE TABLE IF NOT EXISTS `Limonaden_Produziert`
  CREATE TABLE IF NOT EXISTS `Limonaden_Defekt`
  (`FlaschenID` INT NOT NULL,
   `Abfuell-Datum` VARCHAR(30) NOT NULL);
+  
+#Anlegen der Unique-Schlüssel zur Sicherung der Datenintegrität
+
+ALTER TABLE `bottlefillinglayout`.`limonaden_produziert`
+ADD UNIQUE `Unique_Limonaden_Produziert` (`FlaschenID`, `FlaschenID_Palette`, `PalettenID`, `Abfuell-Datum`);
+
+ALTER TABLE `bottlefillinglayout`.`limonaden_defekt`
+ADD UNIQUE `FlaschenID` (`FlaschenID`, `Abfuell-Datum`);
